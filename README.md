@@ -1,4 +1,4 @@
-# latex2sympy
+# latex compiler
 
 latex2sympy parses LaTeX math expressions and converts it into the
 equivalent SymPy form.
@@ -13,7 +13,7 @@ $ antlr4 PS.g4 -o gen
 
 ## Usage
 
-In Python 2.7:
+In Python 3:
 
 ```python
 from process_latex import process_sympy
