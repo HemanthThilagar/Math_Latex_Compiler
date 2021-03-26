@@ -1,6 +1,6 @@
 # latex compiler
 
-latex2sympy parses LaTeX math expressions and converts it into the
+latex compiler parses LaTeX math expressions and converts it into the
 equivalent SymPy form.
 
 ## Installation
