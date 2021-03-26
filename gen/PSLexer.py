@@ -1,4 +1,3 @@
-# Generated from PS.g4 by ANTLR 4.5.3
 from antlr4 import *
 from io import StringIO
 
